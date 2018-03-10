@@ -1978,7 +1978,7 @@ client.on("message", message => {
 
             }
 });
-client.login("process.env.BOT_TOKEN");
+client.login("NDIxMDU1ODE0MTEyMTE2NzQ2.DYHqwQ.7DBIGpowH_DLAyQz09YVrXWdrO8");
 
 
 
